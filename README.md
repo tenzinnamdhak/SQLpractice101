@@ -7,4 +7,4 @@ There are 3 datasets: members, prices & transactions.
 
 Keep practicing and keep reflecting on your exercises...
 
-In SQL101, I have completed ques 4-10. I used dataset members for ques 4-10. 
+In SQL101,  I used dataset "members" for ques 4-10. 
